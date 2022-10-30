@@ -1,0 +1,20 @@
+{
+    "jobs": [
+        {
+            "title": "UX Designer",
+            "id": 1,
+            "details": "lorem"
+        },
+        {
+            "title": "Web Developer",
+            "id": 2,
+            "details": "lorem"
+        },
+        {
+            "title": "SDE 1",
+            "id": 3,
+            "details": "lorem"
+        }
+    ],
+    "blogs": []
+}
